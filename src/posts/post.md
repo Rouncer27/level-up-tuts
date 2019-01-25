@@ -1,5 +1,5 @@
 ---
-title: 'Welcome to the new blog'
+title: 'Welcome to the new blog This is a change in the markdown file!'
 date: '2019-01-31'
 ---
 
