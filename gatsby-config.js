@@ -18,6 +18,7 @@ module.exports = {
     `gatsby-transformer-remark`, // Luts
     `gatsby-transformer-sharp`, // Luts
     `gatsby-plugin-sharp`, // Luts
+    `gatsby-plugin-netlify-cms`, // Luts
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
